@@ -2,6 +2,8 @@ rightmenu:
   enable: false
 site_footer:
   layout: []
+
+
 ############################### Sidebar ############################### > start
 sidebar:
 # 主页、分类、归档等独立页面
