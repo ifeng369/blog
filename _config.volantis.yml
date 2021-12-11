@@ -17,7 +17,7 @@ sidebar:
     blogger:
       class: blogger
       display: [desktop] # [desktop, mobile]
-      avatar: https://cdn.jsdelivr.net/gh/ifeng369/blog/images/logo1.jpg
+      avatar: https://cdn.jsdelivr.net/gh/ifeng369/blog/images/logo.jpg
       # title:
       # subtitle:
       # jinrishici:  Poetry Today. You can set a string, and it will be displayed when loading fails.
@@ -112,7 +112,7 @@ article:
     meta_library:
       # 默认文章作者（可在 front-matter 中覆盖）
       author:
-        avatar: https://cdn.jsdelivr.net/gh/ifeng369/blog/images/logo1.jpg
+        avatar: https://cdn.jsdelivr.net/gh/ifeng369/blog/images/logo.jpg
         name: ifeng
         # url: https://volantis.weijiajin.com
       # 文章创建日期
@@ -189,7 +189,7 @@ cover:
 navbar:
   visiable: auto # always, auto
   logo: # choose [img] or [icon + title]
-    img: #https://cdn.jsdelivr.net/gh/ifeng369/blog/images/logo1.jpg
+    img: #https://cdn.jsdelivr.net/gh/ifeng369/blog/images/logo.jpg
     icon: 
     title: weijiajin
   menu:
