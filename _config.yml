@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: ifeng blog
+title: 彼岸花开
 subtitle: ''
 description: ''
 keywords:
@@ -11,10 +11,9 @@ author: Ifeng
 language: zh-CN
 timezone: ''
 favicon: https://cdn.jsdelivr.net/gh/ifeng369/blog/icon/favicon.ico
-
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://blog.ifeng369.top/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:

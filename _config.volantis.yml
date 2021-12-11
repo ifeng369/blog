@@ -1,3 +1,5 @@
+
+
 rightmenu:
   enable: false
 site_footer:
@@ -23,11 +25,11 @@ sidebar:
         # - icon: fas fa-rss
         #   url: atom.xml
         - icon: fas fa-envelope
-          url: mailto:me@xaoxuu.com
+          url:  /
         - icon: fab fa-github
-          url: https://github.com/xaoxuu
+          url:  /
         - icon: fas fa-headphones-alt
-          url: https://music.163.com/#/user/home?id=63035382
+          url:  /
     tagcloud:
       class: tagcloud
       display: [desktop] # [desktop, mobile]
@@ -166,8 +168,8 @@ cover:
     archive: true
     others: true # can be written in front-matter 'cover: true'
   background: https://cdn.jsdelivr.net/gh/ifeng369/blog/images/033.jpg
-  title: 'ifeng’s blog'
-  subtitle: "「Stay Hungry.Stay Foolish.」"
+  title: '孟婆来碗汤'
+  subtitle: "我也曾温柔如春少年意"
   search:  # search bar placeholder
   features:
     - name: 博客
@@ -404,7 +406,6 @@ plugins:
       - https://cdn.jsdelivr.net/gh/ifeng369/blog/images/008.jpg
       - https://cdn.jsdelivr.net/gh/ifeng369/blog/images/009.jpg
       - https://cdn.jsdelivr.net/gh/ifeng369/blog/images/010.jpg
-      - https://cdn.jsdelivr.net/gh/ifeng369/blog/images/011.jpg
       - https://cdn.jsdelivr.net/gh/ifeng369/blog/images/012.jpg
       - https://cdn.jsdelivr.net/gh/ifeng369/blog/images/013.jpg
       - https://cdn.jsdelivr.net/gh/ifeng369/blog/images/014.jpg
@@ -424,7 +425,6 @@ plugins:
       - https://cdn.jsdelivr.net/gh/ifeng369/blog/images/028.jpg
       - https://cdn.jsdelivr.net/gh/ifeng369/blog/images/029.jpg
       - https://cdn.jsdelivr.net/gh/ifeng369/blog/images/030.jpg
-      - https://cdn.jsdelivr.net/gh/ifeng369/blog/images/031.jpg
       - https://cdn.jsdelivr.net/gh/ifeng369/blog/images/032.jpg
       - https://cdn.jsdelivr.net/gh/ifeng369/blog/images/033.jpg
       - https://cdn.jsdelivr.net/gh/ifeng369/blog/images/034.jpg
