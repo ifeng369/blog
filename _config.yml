@@ -3,13 +3,14 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: ifeng blog
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
+author: Ifeng
 language: zh-CN
 timezone: ''
+favicon: https://cdn.jsdelivr.net/gh/ifeng369/blog/icon/favicon.ico
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'

@@ -1,4 +1,3 @@
-favicon: https://cdn.jsdelivr.net/gh/ifeng369/blog/icon/favicon.ico
 rightmenu:
   enable: false
 site_footer:
@@ -398,7 +397,6 @@ plugins:
       - https://cdn.jsdelivr.net/gh/ifeng369/blog/images/002.jpg
       - https://cdn.jsdelivr.net/gh/ifeng369/blog/images/003.jpg
       - https://cdn.jsdelivr.net/gh/ifeng369/blog/images/004.jpg
-      - https://cdn.jsdelivr.net/gh/ifeng369/blog/images/005.jpg
       - https://cdn.jsdelivr.net/gh/ifeng369/blog/images/006.jpg
       - https://cdn.jsdelivr.net/gh/ifeng369/blog/images/007.jpg
       - https://cdn.jsdelivr.net/gh/ifeng369/blog/images/008.jpg
@@ -447,5 +445,4 @@ plugins:
       - https://cdn.jsdelivr.net/gh/ifeng369/blog/images/051.jpg
       - https://cdn.jsdelivr.net/gh/ifeng369/blog/images/052.jpg
       - https://cdn.jsdelivr.net/gh/ifeng369/blog/images/053.jpg
-      # - https://cdn.jsdelivr.net/gh/ifeng369/blog/images/054.jpg
       - https://cdn.jsdelivr.net/gh/ifeng369/blog/images/055.jpg
