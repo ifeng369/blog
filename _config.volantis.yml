@@ -17,7 +17,7 @@ sidebar:
     blogger:
       class: blogger
       display: [desktop] # [desktop, mobile]
-      avatar: https://cdn.jsdelivr.net/gh/ifeng369/blog/images/logo.jpg
+      avatar: https://cdn.jsdelivr.net/gh/ifeng369/blog/images/logo3.jpg
       # title:
       # subtitle:
       # jinrishici:  Poetry Today. You can set a string, and it will be displayed when loading fails.
@@ -112,7 +112,7 @@ article:
     meta_library:
       # 默认文章作者（可在 front-matter 中覆盖）
       author:
-        avatar: https://cdn.jsdelivr.net/gh/ifeng369/blog/images/logo.jpg
+        avatar: https://cdn.jsdelivr.net/gh/ifeng369/blog/images/logo3.jpg
         name: ifeng
         # url: https://volantis.weijiajin.com
       # 文章创建日期
@@ -189,7 +189,7 @@ cover:
 navbar:
   visiable: auto # always, auto
   logo: # choose [img] or [icon + title]
-    img: #https://cdn.jsdelivr.net/gh/ifeng369/blog/images/logo.jpg
+    img: #https://cdn.jsdelivr.net/gh/ifeng369/blog/images/logo3.jpg
     icon: 
     title: 
   menu:
@@ -384,7 +384,7 @@ plugins:
     position: fixed       # cover: sticky on the cover.   fixed: Fixed as background for the site.
     shuffle: true         # shuffle playlist
     duration: 30000       # Duration (ms)
-    fade: 1500            # fade duration (ms) (Not more than 1500)
+    fade: 1000            # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
       - https://cdn.jsdelivr.net/gh/ifeng369/blog/images/001.jpg
       - https://cdn.jsdelivr.net/gh/ifeng369/blog/images/002.jpg
@@ -401,7 +401,6 @@ plugins:
       - https://cdn.jsdelivr.net/gh/ifeng369/blog/images/015.jpg
       - https://cdn.jsdelivr.net/gh/ifeng369/blog/images/016.jpg
       - https://cdn.jsdelivr.net/gh/ifeng369/blog/images/017.jpg
-      - https://cdn.jsdelivr.net/gh/ifeng369/blog/images/018.jpg
       - https://cdn.jsdelivr.net/gh/ifeng369/blog/images/019.jpg
       - https://cdn.jsdelivr.net/gh/ifeng369/blog/images/020.jpg
       - https://cdn.jsdelivr.net/gh/ifeng369/blog/images/021.jpg
@@ -417,7 +416,6 @@ plugins:
       - https://cdn.jsdelivr.net/gh/ifeng369/blog/images/032.jpg
       - https://cdn.jsdelivr.net/gh/ifeng369/blog/images/033.jpg
       - https://cdn.jsdelivr.net/gh/ifeng369/blog/images/034.jpg
-      - https://cdn.jsdelivr.net/gh/ifeng369/blog/images/035.jpg
       - https://cdn.jsdelivr.net/gh/ifeng369/blog/images/036.jpg
       - https://cdn.jsdelivr.net/gh/ifeng369/blog/images/037.jpg
       - https://cdn.jsdelivr.net/gh/ifeng369/blog/images/038.jpg
