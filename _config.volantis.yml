@@ -4,8 +4,6 @@ rightmenu:
   enable: false
 site_footer:
   layout: []
-
-
 ############################### Sidebar ############################### > start
 sidebar:
 # 主页、分类、归档等独立页面
@@ -169,7 +167,7 @@ cover:
     others: true # can be written in front-matter 'cover: true'
   background: https://cdn.jsdelivr.net/gh/ifeng369/blog/images/033.jpg
   title: '孟婆来碗汤'
-  subtitle: "我也曾温柔如春少年意"
+  subtitle: "我也曾温柔如春似少年"
   search:  # search bar placeholder
   features:
     - name: 博客
